@@ -4,7 +4,40 @@
         "topic": "Asynchronous"
     },
     {
-        "name": "Lilly Bertrand",
-        "topic": "Iowa"
+        "name": "Sam",
+        "topic": "Vue.js"
+    },    {
+        "name": "Christina",
+        "topic": "Rail Model"
+    },    {
+        "name": "Katie",
+        "topic": "Sass"
+    },     {
+        "name": "Daniel",
+        "topic": "Fetch"
+    },     {
+        "name": "Stanley",
+        "topic": "GraphQL"
+    },     {
+        "name": "Marcus",
+        "topic": "Functional Programming"
+    },     {
+        "name": "Abi",
+        "topic": "Unit testing & TDD"
+    },     {
+        "name": "Darwin",
+        "topic": "Blockchain & Fintech"
+    },     {
+        "name": "Sameer",
+        "topic": "Machine Learning"
+    },     {
+        "name": "Nima",
+        "topic": "AWS"
+    },     {
+        "name": "Cintia",
+        "topic": "SEO, Analytics"
+    },     {
+        "name": "Salma",
+        "topic": "Glitch"
     }
 ]
